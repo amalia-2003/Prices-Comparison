@@ -1,1 +1,1 @@
-R Project that shows a comparison between the prices and the rentabilities of 2 companies.
+This project analyzes the daily stock returns of Uber, Lyft and NASDAQ using historical price data imported from a CSV file. The stock prices are computed by comparing prices on consecutive days, providing a visualization of percentage changes.
